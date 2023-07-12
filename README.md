@@ -59,45 +59,17 @@
     ![Alt text](image-2.png)
 
 # 3.4 Top Jobs by Median Salary:
-    To get a clearer idea of the salary ranges, I used a box plot. The box plot showed the median salary as approximately $100,000 with an expected range between $75,000 to $125,000. I should be noted the lower salaries could be accounted for by part time positions and wages paid in other countries where there may be an unfavorable exchange rate like India. Higher salaries would be accounted for by senior positions and a few large salary earners.
+    To get a clearer idea of the salary ranges, I used a box plot. The box plot showed the median salary as approximately $100,000 with an expected range between $75,000 to $125,000. I should be noted the lower salaries could be accounted for by part time positions and wages paid in other countries where there may be an unfavorable exchange rate like India. Higher salaries are accounted for by senior positions and a few large salary earners.
     ![Alt text](image-3.png)
 
 # 3.5 Median Salary by Experience Level:
-    
+    The last analysis I did was to compare median salaries to experience level. As expected, salaries increased as the experience level did. The median salary for each experience level are as follows: Entry - 80,000, Middle - 100,000, Senior - 148,000, and Executive - 200,000.
+    C:\users\monke\daimil10\Report_research\Data_Science_Salaries\Data_Science_Salaries\image-4.png
 
+# 5 Potential Further Avenues of Inquiry:
+    1 Review additional datasets. 
+    2 Does the actual work for each job title vary by company.
+    2 Include degrees/credentials/experience and impact on salary.
+    3 Experience level per job title, promotion timelines and requirements.
 
-
-
-    How many categorical fields? What do they represent?
-        There are seven categorical fields. They generally represent experience level, employment type, job title,salary currency, employee residence, company location and size.
-
-    How many quantitative? What do they represent?
-        There are four quantitative fields. They are work year(all in this column from 2023 since this is a 2023 dataset), salary(in US, British or some other currency), salary in usd(salary column converted to usd if paid in other than usd), and remote ratio(overall work done remotely)
-
-    Is there missing data or data that seems to be wrong somehow (e.g. age = -99)? 
-        There was no missing data
-
-    Has the data already been summarized, or are the observations raw and unprocessed?
-        To my knowledge they are unprocessed, at least that is how I am treating them.  
-
-
-
-# 5 Potential avenues of inquiry
-
-    What types of questions does this dataset seem to support?
-
-        1 What job titles are the most prevalant
-        2 Salary for those job titles
-        3 Experience level per job title
-        4 Remote to Office work comparison 
-
-
-# 6 Value proposition
-
-        Providing a brief to Data Analysis students on potential career paths and possible salaries.
-
-        My train of thought is to explore:
-            1 What job titles there are
-            2 What pay those job titles are receiving
-            3 What level of experience the job titles generally have.
 
