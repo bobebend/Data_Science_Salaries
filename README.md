@@ -40,7 +40,7 @@
         -company location
         -company size
     It should be noted the the columns marked with a * were not used in my analysis for the following reasons.
-    -work year: this dataset only used 2023 information so it was the same for every row.
+    -work year: this dataset used information from 2020 through 2023 with the bulk of the data from 2022 to 2023. Given the short time period, the salaries in all years are relevent. In addition, the focus of of this analysis are the salaries themselves.
     -salary and salary currency: 3000 rows were already in USD and the remaining non-USD salaries were converted to USD in their own column.
 
     To calulate salaries I used median instead of mean. I found there were a very few high salary jobs skewing the data so using the median helped account for this. 
@@ -49,6 +49,7 @@
 # 3.1 Correlation Heatmap:
     After a cursory inspection of the data I wanted to see if there was a linear correlation between any of the data. I found there were no strong linear correlations in my data indicating no consistent linear pattern of change between the data categories.
 ![Alt text](image.png)
+
 # 3.2 Top 20 Job Titles:
     To get an idea of the what job titles there were, I used a horizontal bar graph to look at the top 20 job titles. I found 2,781 of the 3,755 jobs listed were from four job titles; Data Engineer(1,040), Data Scientist(840), Data Analyst(612), and Machine Learning Engineer(289). The other titles were 103 or fewer positions making a rather sharp divide among job titles.
 ![Alt text](image-1.png)
