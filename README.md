@@ -58,7 +58,7 @@
 ![Alt text](image-2.png)
 
 # 3.4 Top Jobs by Median Salary:
-    To get a clearer idea of the salary ranges, I used a box plot. The box plot showed the median salary as approximately $100,000 with an expected range between $75,000 to $125,000. I should be noted the lower salaries could be accounted for by part time positions and wages paid in other countries where there may be an unfavorable exchange rate like India. Higher salaries are accounted for by senior positions and a few large salary earners.
+    To get a clearer idea of the salary ranges, I used a box plot. The box plot showed the median salary as approximately $100,000 with an expected range between $77,500 to $126,250. It should be noted the lower salaries could be accounted for by part time positions and wages paid in other countries where there may be an unfavorable exchange rate like India. Higher salaries are accounted for by senior positions and a few large salary earners.
 ![Alt text](image-3.png)
 
 # 3.5 Median Salary by Experience Level:
