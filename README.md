@@ -65,12 +65,13 @@
 # 3.5 Median Salary by Experience Level:
     The last analysis I did was to compare median salaries to experience level. As expected, salaries increased as the experience level did. The median salary for each experience level are as follows: Entry - 80,000, Middle - 100,000, Senior - 148,000, and Executive - 200,000.
     C:\users\monke\daimil10\Report_research\Data_Science_Salaries\Data_Science_Salaries\image-4.png
-    image-4.png
+
+# 4 Conclusions:
+    Based off the data I analysed from this file, I have shown the most common job titles and the salaries associated with them. Median Entry and Middle experience jobs offer fairly good pay. I should be noted that this data does not take into account other factors which may increase an individuals earning potential like other skills and experience. Someone could use their other skills AND data science knowledge to find a job that combines them both and offers a higher salary. 
+    
 
 # 5 Potential Further Avenues of Inquiry:
     1 Review additional datasets. 
     2 Does the actual work for each job title vary by company.
     2 Include degrees/credentials/experience and impact on salary.
     3 Experience level per job title, promotion timelines and requirements.
-
-
