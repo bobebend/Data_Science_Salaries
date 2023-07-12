@@ -49,7 +49,7 @@
 # 3.1 Correlation Heatmap:
     After a cursory inspection of the data I wanted to see if there was a linear correlation between any of the data. I found there were no strong linear correlations in my data indicating no consistent linear pattern of change between the data categories.
     ![Alt text](image.png)
-
+![Alt text](image.png)
 # 3.2 Top 20 Job Titles:
     To get an idea of the what job titles there were, I used a horizontal bar graph to look at the top 20 job titles. I found 2,781 of the 3,755 jobs listed were from four job titles; Data Engineer(1,040), Data Scientist(840), Data Analyst(612), and Machine Learning Engineer(289). The other titles were 103 or fewer positions making a rather sharp divide among job titles.
     ![Alt text](image-1.png)
